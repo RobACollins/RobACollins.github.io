@@ -10,7 +10,7 @@ This is the store for the code behind my github website. Feel free to take a loo
 
 ## Authors
 
-* **Robert Collins** - *Initial work* - (https://github.com/RobACollins)
+* **Robert Collins** - *Website Author* - (https://github.com/RobACollins)
 
 ## Acknowledgments
 
