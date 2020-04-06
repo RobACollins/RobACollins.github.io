@@ -1,18 +1,9 @@
-# RobACollins.github.io
+## RobACollins.github.io
 
-# Project Title
-
-My Github Website
-
-### Prerequisites
+My personal website
 
 This is the store for the code behind my github website. Feel free to take a look if you wish to find out a little more about how this website was created.
 
-## Authors
 
-* **Robert Collins** - *Website Author* - (https://github.com/RobACollins)
+_I wanted to keep past acknowledgements to Dr Evans at the University of Leeds for his introduction to programming module._
 
-## Acknowledgments
-
-* Thank you to Dr Evans for his introduction to programming module at the University of Leeds.
-* Themed for the help in understanding CSS code. 
